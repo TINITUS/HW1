@@ -2,7 +2,7 @@
   "name": "HW1",
   "version": "1.0.0",
   "description": "Homework1 for AngularJS course in Softuni.bg",
-  "main": "app.js",
+  "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
