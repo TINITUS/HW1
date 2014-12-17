@@ -1,0 +1,21 @@
+{
+  "name": "HW1",
+  "version": "1.0.0",
+  "description": "Homework1 for AngularJS course in Softuni.bg",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TINITUS/HW1"
+  },
+  "author": "Miroslav Zografski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TINITUS/HW1/issues"
+  },
+  "dependencies": {
+    "angular": "~1.3.7"
+  }
+}
